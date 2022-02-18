@@ -1,0 +1,146 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Stylis T-shirt",
+            "price": "120",
+            "discount": "10",
+            "image"  : "https://fzi4k1gk2dw3t0fqy18sw8qi-wpengine.netdna-ssl.com/wp-content/uploads/2013/08/538228-0286_1-494x593.jpeg",
+            "description": "Lorem is hndf jos fhkie adocujofk jksjdfoa."
+            
+        },
+        {
+            "id": 2,
+            "title": "shoe",
+            "price": "240",
+            "discount": "4",
+            "image"  : "https://fzi4k1gk2dw3t0fqy18sw8qi-wpengine.netdna-ssl.com/wp-content/uploads/2013/08/282004-0286_2-494x593.jpeg",
+            "description": "Lorem is hndf jos fhkie adocujofk jksjdfoa."
+            
+        },
+        {
+            "id": 3,
+            "title": "Ladies Bag",
+            "price": "458",
+            "discount": "5",
+            "image"  : "https://fzi4k1gk2dw3t0fqy18sw8qi-wpengine.netdna-ssl.com/wp-content/uploads/2013/08/216756-0014_1-494x593.jpeg",
+            "description": "Lorem is hndf jos fhkie adocujofk jksjdfoa."
+            
+        },
+        {
+            "id": 4,
+            "title": "Bjorn Tee SS Jack & Jones",
+            "price": "458",
+            "discount": "5",
+            "image"  : "https://fzi4k1gk2dw3t0fqy18sw8qi-wpengine.netdna-ssl.com/wp-content/uploads/2013/08/634021-5326_1-494x593.jpeg",
+            "description": "Lorem is hndf jos fhkie adocujofk jksjdfoa."
+            
+        }
+    ],
+
+    
+    "catagory": [
+            {
+                "samsung" :  "Samsung"
+            },
+            {
+                "men" :  "men"
+            }
+
+        ],
+
+
+
+
+    "brands": ["Samsung", "Nokia", "Hp", "Dell","Huwei","Symphony"],
+
+
+
+    "devs": [
+        {
+            "id": 1,
+            "name": "Md Mahir",
+            "age": 23,
+            "skill": "React developer",
+            "location": "Tangail",
+            "img" : "https://d329jirxh7znrd.cloudfront.net/wp-content/uploads/2018/10/team-member-04.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Md Enal",
+            "age": 24,
+            "skill": "Laravel developer",
+            "location": "Uttara",
+            "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvuBaqCBHZZeBxMgxTr1Nzxt2IHFLxgURKeHHKtlOE-pGxbQq2EdAqZQorxa0v22r0Bd0&usqp=CAU"
+        },
+        {
+            "id": 3,
+            "name": "Md Jahid",
+            "age": 30,
+            "skill": "Python developer",
+            "location": "Mirpur",
+            "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOTk-N9nObtC-QczBpJCtbeVUufyCVvZSKzW3sw8qdkHIPHTYonVVX1UVaVKmGj2WW1pc&usqp=CAU"
+        },
+        {
+            "id": 3,
+            "name": "Md Jahid",
+            "age": 25,
+            "skill": "Python developer",
+            "location": "Mirpur",
+            "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5yt4pfdz3-lacajgUY5xuRuciElEaMZa9luc29Vgx2oVLDQceaFmxgcUXRzU-IfTZcWA&usqp=CAU"
+        }
+    ],
+
+
+
+    "student": [
+        {
+            "id":       1,
+            "name":     "Md Mahir",
+            "roll":     1,
+            "age":      23,
+            "group":    "Science",
+            "class":    "Nine",
+            "gender":   "Male",
+            "image":    "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?size=626&ext=jpg&ga=GA1.1.2011930947.1642204800",
+            "bn":       45,
+            "en":       85,
+            "math":     65,
+            "s":        45,
+            "ss":       94,
+            "rel":      78
+        },
+        {
+            "id":       2,
+            "name":     "Md Mannan",
+            "roll":     2,
+            "age":      26,
+            "group":    "Science",
+            "class":    "Nine",
+            "gender":   "Male",
+            "image":    "https://us.123rf.com/450wm/luismolinero/luismolinero1909/luismolinero190917934/130592146-handsome-young-man-in-pink-shirt-over-isolated-blue-background-keeping-the-arms-crossed-in-frontal-p.jpg?ver=6",
+            "bn":       45,
+            "en":       36,
+            "math":     52,
+            "s":        40,
+            "ss":       85,
+            "rel":      69
+        },
+        {
+            "id":       3,
+            "name":     "Md A. Karim",
+            "roll":     3,
+            "age":      23,
+            "group":    "Science",
+            "class":    "Nine",
+            "gender":   "Male",
+            "image":    "https://unlimited-elements.com/wp-content/uploads/2021/05/portrait-white-man-isolated.jpg",
+            "bn":       45,
+            "en":       86,
+            "math":     62,
+            "s":        50,
+            "ss":       15,
+            "rel":      89
+        }
+    ]
+}
